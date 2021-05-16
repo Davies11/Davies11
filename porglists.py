@@ -55,4 +55,8 @@ new_list = courses_str.split(' , ')
 # random order, no duplicate items. 
 # set = {'porg', 'farms'}
 # set2 = {'porg2', 'farms2'}
+# intersection method = see commonality.
+# Difference method = see difference
 # print(set.intersection.(set2))
+# print(set.difference.(set2))
+# union = combine both sets
