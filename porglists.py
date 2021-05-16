@@ -46,3 +46,13 @@ print(courses_str)
 
 # to separate all values in list
 new_list = courses_str.split(' , ')
+
+# TUPLES
+# immutable, cannot add new items. 
+# tuple = ('porg', 'farms') 
+
+# Sets
+# random order, no duplicate items. 
+# set = {'porg', 'farms'}
+# set2 = {'porg2', 'farms2'}
+# print(set.intersection.(set2))
